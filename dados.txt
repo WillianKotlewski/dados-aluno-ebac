@@ -4,7 +4,7 @@ Dados do aluno
 -Profissão:
 -Cidade: Balneário Camboriú
 -O que faz nas horas vaga: Estudo
--Feedback sobre o curso Qualidade de Software: +-
+-Feedback sobre o curso Qualidade de Software:
 -Feedback sobre a plataforma de estudo da EBAC:
 
 Obrigado!!!
